@@ -1,0 +1,25 @@
+git config --global user.email "mohsenga24@gmail.com"
+git config --global user.name "mohsenga24" 
+
+
+
+-----------------
+
+
+git init ---> this is the first command u type in any folder when using git 
+		::: this will make a hidden folder for GitHub when trying to upload a file. 
+
+----------------
+
+git add . ----> this mean add all (( . )) to the 'git hidden folder' 
+
+
+
+-----------
+
+git commit -m "First commit" ----> this mean take all for the files inside the git folder 
+				:: and wrap it together with the name "first commit" 
+				:: we do this so each commit has a unique name 
+				:: think of commit as a folder with name "first commit" 
+				:: and this folder has all of the stuff u added in a git folder 
+
